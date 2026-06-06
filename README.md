@@ -12,7 +12,7 @@ LINK REPO
 | Name            | Link |
 |-----------------|---------|
 | Nailah     | [Nailah](https://github.com/yumejapan17-pixel/ruffier-test.git) |
-| Hazirah       | Hazirah |
+| Hazirah       | [Hazirah](https://github.com/zirakerenbgt) |
 | Vincent   | [Vincent](https://github.com/efes808/fay-.git) |
 
 DAY 1
@@ -22,3 +22,10 @@ DAY 1
 | instr.py        | Hazirah |
 | second_win.py   | Vincent |
 | final_win.py    | Vincent |
+
+DAY 2
+| File            | Name |
+|-----------------|---------|
+| instr.py        | Vincent |
+| second_win.py   | Hazirah |
+| final_win.py    | Nailah |
